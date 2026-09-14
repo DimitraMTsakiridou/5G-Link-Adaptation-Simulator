@@ -51,7 +51,7 @@ Instead of a complex Transport Block Size (TBS) quantization, throughput is math
 
 Executing the simulation for 1,000 Transmission Time Intervals (TTIs) yields the following metrics, demonstrating the dynamic nature of the link adaptation:
 
-```text
+```
 --- Simulation Results (1000 TTIs) ---
 Average SINR:       9.85 dB
 Average CQI:        9.51
